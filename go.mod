@@ -1,6 +1,6 @@
 module github.com/rolandknight/quote
 
 require (
-	rsc.io/quote/v3 v3.0.0
-	rsc.io/sampler v1.3.0
+	github.com/quote/v3 v3.0.0
+	github.com/sampler v1.3.0
 )
