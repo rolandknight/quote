@@ -1,4 +1,4 @@
-module rsc.io/quote
+module github.com/rolandknight/quote
 
 require (
 	rsc.io/quote/v3 v3.0.0
