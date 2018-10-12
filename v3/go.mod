@@ -1,4 +1,4 @@
-module rsc.io/quote/v3
+module github.com/rolandknight/quote/v3
 
-require rsc.io/sampler v1.3.0
+require github.com/rolandknight/sampler v1.3.0
 
